@@ -1,0 +1,2 @@
+# RayTracing
+The goal of this assignment is to learn and appreciate the core concepts behind synthesis of a perspective 3D image. You will implement a basic ray tracing system to simulate the optics of a pinhole camera. You will also gain experience using shading models that approximate ambient, diffuse, and specular light reflection on surfaces, which give objects the appearance of having different materials.
